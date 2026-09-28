@@ -55,4 +55,4 @@ This repository documents my learning journey from **beginner concepts to profes
 ## 👩‍💻 Author
 
 **Aakansha Saxena**
-BCA Student | Aspiring Data Analyst / Salesforce Developer
+
